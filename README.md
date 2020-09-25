@@ -1,4 +1,4 @@
-# quote-generator
+# Daily Quote Generator
 Mobile-first quote generator with leverages the fetch api and proxy urls to address CORS issues.
 
 ## Demo
